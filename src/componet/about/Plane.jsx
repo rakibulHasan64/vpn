@@ -13,7 +13,7 @@ function Plane() {
                <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6 py-14">
                   {/* Free Plan Card */}
                   <div className="border-2 border-[#2FAB73] hover:border-[#F53838] py-10 rounded-xl">
-                     <img className="mx-auto opacity-90 w-48 sm:w-60" src="/public/Premium.png" alt="Free Plan" />
+                     <img className="mx-auto opacity-90 w-48 sm:w-60" src="/Premium.png" alt="Free Plan" />
                      <h3 className="text-2xl sm:text-3xl font-bold text-center mt-8">Free Plan</h3>
 
                      <ul className="flex items-center justify-center mt-6 gap-2">
@@ -38,7 +38,7 @@ function Plane() {
 
                   {/* Same Card for Other Plans */}
                   <div className="border-2 border-[#2FAB73] hover:border-[#F53838] py-10 rounded-xl">
-                     <img className="mx-auto opacity-90 w-48 sm:w-60" src="/public/Premium.png" alt="Premium Plan" />
+                     <img className="mx-auto opacity-90 w-48 sm:w-60" src="/Premium.png" alt="Premium Plan" />
                      <h3 className="text-2xl sm:text-3xl font-bold text-center mt-8">Premium Plan</h3>
 
                      <ul className="flex items-center justify-center mt-6 gap-2">
@@ -63,7 +63,7 @@ function Plane() {
 
                   {/* Another Plan Card */}
                   <div className="border-2 border-[#2FAB73] hover:border-[#F53838] py-10 rounded-xl">
-                     <img className="mx-auto opacity-90 w-48 sm:w-60" src="/public/Premium.png" alt="Ultimate Plan" />
+                     <img className="mx-auto opacity-90 w-48 sm:w-60" src="/Premium.png" alt="Ultimate Plan" />
                      <h3 className="text-2xl sm:text-3xl font-bold text-center mt-8">Ultimate Plan</h3>
 
                      <ul className="flex items-center justify-center mt-6 gap-2">
