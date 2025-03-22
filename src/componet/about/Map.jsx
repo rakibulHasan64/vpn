@@ -11,7 +11,7 @@ function Map() {
 
             <img
                className="mx-auto py-10 w-full md:w-[80%] lg:w-[70%] xl:w-[60%]"
-               src="/public/Huge Global.png"
+               src="/Huge Global.png"
                alt="Map"
             />
          </div>

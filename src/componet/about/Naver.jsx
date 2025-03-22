@@ -14,7 +14,7 @@ function Naver() {
 
             {/* Center: Logo */}
             <div className="flex items-center gap-1">
-               <img className="w-[30px] h-[30px]" src="/public/Vector.png" alt="Logo" />
+               <img className="w-[30px] h-[30px]" src="/Vector.png" alt="Logo" />
                <strong className="text-[17px]">LaslesVPN</strong>
             </div>
 

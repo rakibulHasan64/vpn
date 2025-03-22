@@ -8,7 +8,7 @@ function Many() {
 
                {/* Image */}
                <div className="flex justify-center">
-                  <img className="w-[350px] md:w-[450px] lg:w-[500px]" src="/public/Illustration 2.png" alt="Illustration" />
+                  <img className="w-[350px] md:w-[450px] lg:w-[500px]" src="/Illustration 2.png" alt="Illustration" />
                </div>
 
                {/* Text & Features */}

@@ -18,7 +18,7 @@ function Banner() {
 
             {/* Right Side: Image */}
             <div className="mt-10 md:mt-0 md:w-1/2 flex justify-center">
-               <img className="w-[80%] md:w-[450px] lg:w-[500px]" src="/public/Illustration 1.png" alt="VPN Illustration" />
+               <img className="w-[80%] md:w-[450px] lg:w-[500px]" src="/Illustration 1.png" alt="VPN Illustration" />
             </div>
          </div>
       </div>
